@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新唐人电视直播 — #region#</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.5.0/video.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.15.0/videojs-contrib-hls.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.5.0/video-js.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <script src="/hw/default.js"></script>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/hw/default.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="navbar navbar-default navbar-fixed-top nav-bg" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand main_logo" href="/"><img src="/hw/logo.png"></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="http://#serverip#:10000/no-gfw" data-toggle="collapse"
+                            data-target=".navbar-collapse">翻墙软件</a>
+                    </li>
+                    <li><a href="/index.html">电视直播</a></li>
+                    <li><a href="http://#serverip#:10000/videos/res1/news/">热点视频</a></li>
+                    <li><a href="http://#serverip#:10000/videos/res2/blog/">法轮功真相</a></li>
+                    <li><a href="http://#serverip#:10000/videos/res1/tui/">三退运动</a></li>
+                    <li><a href="http://#serverip#:10000/videos/res4/mh-culture/">传统文化</a></li>
+                    <li><a href="http://#serverip#:10000/videos/res/TIH/">历史上的今天</a></li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+
+        <div class="panel panel-info">
+            <div class="panel-heading">网站代理</div>
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <a href="http://#serverip#:85/gb/">大纪元时报</a>&nbsp; |&nbsp;
+                    <a href="http://#serverip#:8808/gb/">新唐人电视台</a>&nbsp; |&nbsp;
+                    <a href="/radio.html">希望之声广播</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="http://#serverip#:8300/">看中国</a>&nbsp; |&nbsp;
+                    <a href="http://#serverip#:9800/mandarin/">自由亚洲电台</a>&nbsp; |&nbsp;
+                    <a href="http://#serverip#:9900/chinese/">中国数字时代</a>&nbsp; |&nbsp;
+                    <a href="http://#serverip#:10020/">中国禁片</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="panel panel-primary">
+            <ul class="list-group links">
+                <li class="list-group-item">
+                    <a href="http://#serverip#:10000/videos/">翻墙必看</a>&nbsp; |&nbsp;
+                    <a href="/youtube.html">YouTube精选</a>&nbsp; |&nbsp;
+                    <a href="/index.html">电视直播</a>&nbsp; |&nbsp;
+                    <a href="http://#serverip#:10000/bbooks/">禁书下载</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="panel panel-warning" id="ua">
+            <div class="panel-warning"><a href="/guide.html">微信用户点此获得更佳浏览体验</a></div>
+        </div>
+
+        <div class="panel panel-primary">
+            <div class="panel-heading" style="text-align: center;font-weight: 700;">新唐人电视直播 — #region#</div>
+            <div>
+                <video controls autoplay preload="auto" id=player
+                    class="video-js vjs-default-skin vjs-big-play-centered" poster="/hw/ntdtv.png">
+                    <source src="http://#dataserverip#:8007/#code#/playlist.m3u8" type="application/x-mpegURL">
+                </video>
+            </div>
+            <ul class="list-group">
+                <li class="list-group-item links">
+                    <a href="/tv_cnlive900.html">中国台</a>&nbsp; |&nbsp;
+                    <a href="/tv_aplive200.html">亚太台</a>&nbsp; |&nbsp;
+                    <a href="/tv_live900.html">美东台</a>&nbsp; |&nbsp;
+                    <a href="/tv_eulive600.html">欧州台</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="panel panel-info">
+            <div class="panel-heading" style="text-align: center;">希望之声广播 </div>
+            <ul class="list-group">
+                <li class="list-group-item links">
+                    <a href="/soh-live.html" class="dl">中国广播台</a>&nbsp; |&nbsp;
+                    <a href="/bayvoice.html" class="dl">湾区生活台</a>&nbsp; |&nbsp;
+                    <a href="/SYDNEY.html" class="dl">澳洲台</a>&nbsp; |&nbsp;
+                    <a href="/SF969.html" class="dl">粤语台</a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        var player = videojs('player');
+        hw();
+    </script>
+    <footer>
+        <p>&copy; 2020-2021 <a href="https://github.com/gfw-breaker/">翻墙教练 gfw-breaker </a></p>
+    </footer>
+</body>
+
+</html>
