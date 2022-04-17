@@ -12,7 +12,7 @@ cwd=/root/youtube-video
 ts=$(date "+%m%d%H%m")
 
 # get IP
-nic=$(/sbin/ifconfig | grep flags | head -n 1 | cut -d':' -f1)
+nic=$(/sbin/ifconfig | grep flags | egrep '^eth|^ens' | head -n 1 | cut -d':' -f1)
 ip=$(/sbin/ifconfig $nic | grep "broadcast" | awk '{print $2}')
 
 
