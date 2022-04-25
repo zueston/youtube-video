@@ -1000,7 +1000,6 @@ DaXiong|7Cuu5Ez2pds|映画「長春」主创现场 Q＆A
 DaXiong|SYmM2aY8X3Y|什么是伦勃朗的光？和倫勃朗喝咖啡喲！【畫裡話外】
 DaXiong|J5TtRpKe8ok|盜版比正版還金貴的皇家瓷器，大開眼界！【畫裡話外】
 DaXiong|uNSmHgmk1JM|荷蘭電影節頒獎禮 #大雄畫裡話外 #荷蘭 #頒獎禮
-YaLan|WZnZhAM3KTk|周公制禮 哪些影響上千年 ｜ 神傳文化 ｜ 周朝 ｜ 天壇 地壇 日壇 月壇 ｜ 六部 戶部 吏部 禮部 兵部 刑部 工部 ｜ 北極星 紫微星  紫禁城 ｜ 傳統文化（更新版）
 YaLan|mbEIkKkXzMw|在古代音樂還有這種功效 ｜ 周公作樂 人心與情緒 ｜ 禮樂  ｜ 曾侯乙墓 編鐘 六藝 ｜林黛玉 紅樓夢 ｜五音 宮商角徵羽 ｜ 五行 金木水火土 ｜ 傳統文化 （更新版）
 YaLan|CsbmQxb-J1I|哪裡尋找純淨人心的音樂 ｜ 德音雅樂 聽樂以治心 ｜ 神傳文化 ｜ 制禮作樂 ｜ 雲門 六代舞 ｜曾侯乙 編鐘 ｜移風易俗莫善於樂 ｜ 神韻交響樂 ｜ 淨化人心 ｜ 傳統文化（更新版）
 YaLan|kBAGT8oYhYs|孔子仰慕周公 後世為何多建孔廟 ｜ 孔廟  孔子 周公廟 周公 ｜ 唐朝 武則天 ｜ 洛陽城 ｜ 唐高宗 唐玄宗 ｜ 傳統文化（更新版）
@@ -1050,6 +1049,7 @@ YaLan|0BXUubK9x6U|韓服 漢服 為何如此相像 三 為何朝鮮王朝為明�
 YaLan|_B9FP4UCL-M|韓服 漢服 為何如此相像 四 ｜ 傳統文化 ｜ 明朝 ｜ 朝鮮王朝 ｜ 十二章 ｜ 龍袍｜ 大帽 ｜ 小中華 ｜ 中華傳統 ｜ 文化傳承 ｜ 馨香雅句第98期
 YaLan|r3EmAuV4ZXQ|康熙 雍正 乾隆的御筆匾額 竟在日本沖繩 ｜ 太平洋一島國 曾經穿漢服 說漢語 ｜ 傳統文化 ｜ 琉球 ｜ 首里城 ｜  冊封 ｜ 明朝 ｜ 清朝 ｜ 中華傳統 ｜ 文化傳承 ｜ 馨香雅句第99期
 YaLan|uH3w4eT9l3s|琉球第一座孔廟 竟是福建後裔所建 ｜ 琉球 沖繩 孔廟  閩人三十六姓 ｜ 傳統文化 ｜ 琉球 ｜ 首里城 ｜ 冊封 ｜ 明朝 ｜ 清朝 ｜ 中華傳統 ｜ 文化傳承 ｜ 馨香雅句第100期
+YaLan|4PQW3lGV2rs|他將中國文化帶到琉球一 ｜ 孔廟 明倫堂 六瑜衍義 琉球 沖繩  ｜ 傳統文化 ｜ 程順則 ｜ 國學 ｜ 四書 ｜ 明朝 ｜ 清朝 ｜ 中華傳統 ｜ 文化傳承 ｜ 馨香雅句第101期
 kzgfun|neF-OcvpnzI|瑪雅人對2022的預言，讓人不寒而慄……
 kzgfun|4GLU9txL-i4|40米海嘯來襲？《我所看到的未來》沒說的事
 kzgfun|w3h2q-h9254|不改變就面臨淘汰，人類未來將會……
@@ -2382,58 +2382,56 @@ DudePerfect|UoVNtD-0kTI|Airplane Stereotypes
 DudePerfect|GsLopdvhFpk|Unpredictable Trick Shots 2
 DudePerfect|heIKaaamvdc|All Sports Golf Battle at The Masters
 DudePerfect|DZcRaZ-nDeA|Ultimate Mini Games Battle
-MilitaryTech|hcbf_OE0XpE|T-14 Armata vs M1 Abrams: Which Is The Best Main Battle Tank?
-MilitaryTech|LMPqIp0XaH4|The Most Brutal Attack Aircraft Outside Russia
-MilitaryTech|M9KV_h0ThMw|The Crazy Plane that Never Takes Off from an Aircraft Carrier
+MilitaryTech|mGtShnDN5bA|Meet America's New 'Assault Ship' Armed with F-35s (And Much More)
+MilitaryTech|ypAh38rWAuI|US Marines with Ground Combat Element Conduct a Live-Fire and maneuver Range at Mount Bundey Train
+MilitaryTech|VUn54LMMWcI|U.S. Navy to Take Major Step Forward With the Littoral Combat Ship Program
+MilitaryTech|q-BOlokFoww|Here's Why Russia & China Fears the Mighty M2 Heavy Machine Gun
+MilitaryTech|dn4qhLgMcZc|Top 5 Reason Why the U.S Aircraft Carriers Are Impossible To Sink
+MilitaryTech|MY0wPDfkgVc|The U.S. Navy to Take Major Step Forward With the LCS Program
+MilitaryTech|EJ61A5RYDtQ|US Navy Aircraft Carrier USS Gerald R. Ford: Ready for Action?
+MilitaryTech|xrOAwXn_OXg|Virginia-Class Attack Submarines: Now a Spy Sub?
+MilitaryTech|9ZGw2ensFrk|The Royal Navy Has Developed The World’s Most Advanced Torpedo
+MilitaryTech|OONqkA-Cnf8|Loading $604,000 Missile on an F-22 Raptor at Eglin Air Force Base
+MilitaryTech|J6gUKJGPlfM|5 New Threats Have U.S  Navy Aircraft Carriers Under Siege
+MilitaryTech|7WhA7wJGLD4|Here's the 5 Most Powerful Navies of 2030
+MilitaryTech|OuvLD776OW8|Here's How the US  Special Operations Forces See the Future
+MilitaryTech|MmnD1jv11bw|USS Zumwalt: Most Overrated Warship Ever?
+MilitaryTech|2jFfKnRdzBI|The Age of Aircraft Carriers Could be Coming to an End
+MilitaryTech|InHbO5oFJws|The B-1B bombers Arrive in Europe &  Fly Over the Baltic States
+MilitaryTech|68aYv4cWUMk|US Navy, Belgian, French and Japanese Joint Live Exercise in Arabian Ocean
+MilitaryTech|xkyzL9Qbafs|NATO's Forces and Allies in Action During Crystal Arrow Trainings on Camp Adazi
+MilitaryTech|epRKdLLDgIU|US  Marines with 2nd Marine Battalion participate in Assault Support Training 3 during Weapons and
+MilitaryTech|ZBwU4z-dhhQ|The Reason Why the US Is Still the World’s Top Weapons Seller
+MilitaryTech|mZQn1W9JpJ8|Revealed: This is  Why U.S. Aircraft Carriers Are One of the Safest Places to be in a War
+MilitaryTech|lcVGOBFNK-0|Why the B-52 Super Bomber Is Flying Everywhere These Days
+MilitaryTech|X3Opvyp2lq0|This Is the Most Advanced Tank in the World
+MilitaryTech|bP60AX2rAP8|Exposed: This is Why U.S  Navy Submarines Are So Deadly
+MilitaryTech|QiKfDm7UCvo|The Most DANGEROUS Weapon of US Army - Threat to Russia and China
+MilitaryTech|_vhzCF8y1k8|The U.S. Army's Master Plan for a Land War In Asia
+MilitaryTech|fLkDXmVmUU4|This is Every Class of Ship in the United States Navy
+MilitaryTech|bLKOYqNC1tM|This Is Why China, Russia & N. Korea Can't Kill This Tank
+MilitaryTech|o3HNJKOfcHw|Aircraft Carrier • Awesome USS Carl Vinson & HMS Queen Elizabeth in Action
+MilitaryTech|7AvQQyF1uyA|Here Are The Most Unstoppable US Marine Helicopter Ever
+MilitaryTech|iDo6tikLBWM|9 Deadly Attack Helicopters That You Wouldn't Want to Face in Battle
 MilitaryTech|7ZjH7PnbkLs|If You Try to Fight These Tanks You're Basically Dead
-MilitaryTech|Y5ZEIa_Il4Y|F-16 Fighting Falcons: What You Need to Know
-MilitaryTech|u_TA0xRLEqA|F-22 Raptor - The Most Lethal Fighter of the 21st Century
-MilitaryTech|JB5Tc3tlemI|Revealed: 5 Worst Weapons Projects the US Military Has in The Works
-MilitaryTech|JU-9WYoh5-Y|Super Guppy: A Giant Flying Truck
-MilitaryTech|gR3q16srPpQ|This Fighter Jet Is More Advanced Than You Think
 MilitaryTech|T4gZYjUa9KA|USS Nimitz - The U.S.  Navy’s Best Aircraft Carrier in the World
 MilitaryTech|uF4pueLjOoI|These U.S. Deadly Weapons Are More Advanced than You Think
-MilitaryTech|jnbWuzXuQjQ|Russia, Believe It or Not: The U.S. Air Force Will Make You Dead
-MilitaryTech|0QTt-uErsU0|Why Doesn’t the U.S Allow Exports of F-22, But Is Ready to Export F-35?
 MilitaryTech|s6QHcChqozg|Why Do Aircraft Carriers Have Their Island On The Starboard Side?
 MilitaryTech|e3Z0sfVxRQw|M1 Abrams Tank - The King of the Battlefield
 MilitaryTech|Nm2h3W0oMEM|Super Hornet: The Most Lethal Fighter Jet in the World
-MilitaryTech|q4CuZlI4P_Q|Best F-18 Super Hornet Take Off Ever
-MilitaryTech|f8Tzk3QGK18|F-35: America's Greatest Military Innovation in a Generation
 MilitaryTech|xZ1TFFCWqhY|USS Gerald R. Ford - The Ship That Will Revolutionize Naval Warfare
 MilitaryTech|4SVrJh7iiMo|Revealed: Here’s Why Submarines Are Always Painted Black?
-MilitaryTech|4gXdRuC8u8U|Americas's Most Deadly F-15 EX That Can Destroy Russian Fighter Jets
-MilitaryTech|2K6IU-XwpE0|The 10 Best Cargo Aircraft On the Earth Will Shock You - The Future of Cargo Aircraft
-MilitaryTech|rbtB51rjqbM|Sorry Russia & China, This Super Fighter It’s Not for Sale
-MilitaryTech|-EZX0lEZ6DY|Here Is the Only ‘Super Fighter’ That Could Have Outgunned the World’s Most Powerful Jet
 MilitaryTech|1HtmlcbQUo0|Diesel vs Nuclear Aircraft Carriers
 MilitaryTech|NKVJgqIIsJo|This New Weapons System Turns U.S. Army Artillery Into a 'Sniper Rifle'
-MilitaryTech|tp45bjhPhUI|Meet The B-1 Lancer: The Supersonic Bomber That Nothing Can Match
 MilitaryTech|gQqCjsjmV4M|Why America's Enemy Fears the Javelin Anti-Tank Missile
-MilitaryTech|cte7LaW8JWs|Can Russia and Ukraine Negotiate an End to War
 MilitaryTech|oxk3pLBWccg|Russia Won’t Like This: The US Navy Just Loaned NATO An Aircraft Carrier
 MilitaryTech|0BKN4nH3yfc|The Deadliest FGM-148 Javelin That Can Destroy All Enemy Tank
-MilitaryTech|qhAEw-GvxwI|Why the Russia’s SU-57 Such As Paper Tiger
 MilitaryTech|PlSjK8hUvYM|FGM-148 Javelin In Action ｜ All enemy Tank Destroyer Missile
-MilitaryTech|bs9ch-alqYA|B-2 Spirit: No Aircraft on Earth can Really Match
-MilitaryTech|aWvjtX41mrM|Why America's Enemies Fear the Boeing B-52 Stratofortress
 MilitaryTech|YfTnEs3246c|Here’s the U.S. Army’s Next Gen Helicopter to Replace the Blackhawk
 MilitaryTech|Iv3axXr2ozo|How Powerfull is the FIM-92 Stinger Missile?
-MilitaryTech|QKBe-S8Vm18|The Sad Story Of Russia’s MiG-29 Fighter Jet
-MilitaryTech|AfKc0ck_k0o|NLAW: The British Anti-Tank Missile Used to Destroy All Enemy Tank & Helicopter
-MilitaryTech|VHzv7Uf9slU|Meet the AT4: The Ultra Deadliest Anti Tank On Earth
 MilitaryTech|tEy4p2SUB-U|The Largest Warship in the World Costs $13.3 billion
-MilitaryTech|zquAsMx0eco|How Turkey Became a Drone Superpower
 MilitaryTech|095S90RaFig|9 Submarines That Can Destroy the World in 5 Minutes
-MilitaryTech|DXr51c4UU8E|The 8 Most Feared American Planes by Russia
-MilitaryTech|lW7rsKGi2Nc|USNS MERCY: America's Floating Hospital
-MilitaryTech|iHxgE7LwqpY|NLAWs, Stingers, Javelins, & TB2s: Weapons That Russia Doesn't Like
 MilitaryTech|iBUV3RgqoXM|How the AH-64 Apache Became the Ultimate "Fly Tank"
-MilitaryTech|ju841VkG5O4|Why the F-35 Is Clearly Superior to Russia's Su-57
-MilitaryTech|SD0ORzu6qow|NATO’s Most Deadly Weapons of War
-MilitaryTech|obRTW6L3_M8|The Surprising Facts About F-22 Raptor
-aboluowang|5MoaaTQ_rTc|被黃標🔥滬封城背後習近平兩層深意？直擊上海淪鬼城；華日曝高層內幕；北京半封城 習前一天急走；上海當局擺拍送物資 物價坐直升機；黨媒號召與時代同床共寢 中國人炮轟；彈盡援絕 馬立波烏軍 ｜【阿波羅網】
-aboluowang|fOLHtImqsEc|🔥俄軍奇恥！黑海艦隊旗艦遭重創官兵棄艦逃生；嚇到！新研究：科興風險是輝瑞5倍；上海公安發十大禁令；上海市民曝當局為何將小區陰性變陽性；美財長警告中共：不協助終結烏戰事 須承受後果【阿波羅網FY】
 aboluowang|4CO7KPMK72g|🔥驚！上海竟然是阻擊習連任戰場；突暴雨上海方艙裡慘狀難置信；李克強頭髮稀疏提這事；習近平鐵腕清零 中南海信號異常；波蘭等4國總統現身基輔 見證俄軍殘暴；俄軍在白俄搞丟軍火 貼傳單急尋
 aboluowang|0IAnSz3oBh8|🔥無視上海公安禁令，浦東人忍無可忍上街；創史上紀錄《上海人忍耐到極限》瘋傳，被刪又復活顯內鬥；突發！中共紅線，美隨便踩；打臉！李克強防疫試點遭全網封殺！又傳中校喪命！俄軍40名將領陣亡【阿波羅網FG】
 aboluowang|Sp54RgPL9OU|🔥上海方艙人滿為患,當局被逼180度大轉彎；普京不收手反而更狂妄；馬雲事沒完,習真正目的是...俄軍非對手！美愈加重視共軍；滬衛健委官員輕生 老人靠喝水充飢餓暈；赴上海運費漲三倍無人接 AV阿波羅網】
@@ -2482,6 +2480,8 @@ aboluowang|wDszW07fVE4|🔥俄烏戰幕後推手？索羅斯？上海殯儀館�
 aboluowang|gXrLE9Dw1zU|🔥出大事！葉劍英孫女曝上海比烏戰損失都大；習近平動搖了！遼寧號不能參戰；烏催毀俄指揮所50將校在內；習全票當選二十大代表黨媒曾稱「危險」；俄用最大核武洲際飛彈打擊美部署時機點曝光  ｜【阿波羅網JY】
 aboluowang|m17OAG9pT10|🔥中共暴政激怒中國人，沖塔的越來越多；暗示習近平早點走人 反習派施壓；烏東戰結果首日就注定2大因素；上海強推“硬隔離”了?竟連健康人也拉去方艙；俄軍遭重擊 分析：中共軍隊會否重蹈覆轍  LV
 aboluowang|PR2QWiirgK4|🔥 復旦張維為闢謠沒被打，反實錘！此事上熱搜，看大家被噁心到啥程度；驚曝法德等10國對俄軍售；傳崑山人抗議砸爛防疫崗遭鎮壓；中共軍機墜毀1駕駛員像俄國人；俄媒揭俄軍內部數據 AL ｜ 【阿波羅 網 】
+aboluowang|BJ6yzVc6MFw|🔥要玩完！孙春兰喊出这惊人政治口号；刷屏网络，中国赴美航班爆满；外媒曝“大白”惊人内幕；上海名流精英哭爹叫娘；中国雾霾伤害远超病毒；原云南女副教授被冤判3年半，不许见律师
+aboluowang|xjwsb1-_SV8|🔥首都不保！上海太慘北京超市「菜搶光」；上海民怨高壓將爆？大白被干倒，外賣哥車禍無人救喪生路邊被封，網暴動；中國檢測單位造假竟沒懲處服務全國幾千醫療機構；英特種部隊秘密烏西抗俄？
 jingyuan|rhmcKmMJG1Y|驚傳紅二代劉亞洲被捕，3點關鍵信息和一個基本結論；劉亞洲兩篇文章釋放重要信息；薇婭被重罰，道歉信暗藏機鋒，新版打土豪登台？｜ 遠見快評 唐靖遠 ｜ 2021.12.22｜Youmaker【評論】
 jingyuan|iMzLfgVS4ac|西安首創「社會面清零」，背後真相是什麼？為冬奧不惜代價，習近平「特色防疫」隱藏兩大塌陷危機；元旦連續表態，習近平釋放重磅信號。｜ 遠見快評 唐靖遠 ｜ 2021.01.03｜Youmaker【評論】
 jingyuan|cUW6cNYI-bs|西安宣布「社會面清零」，翻版納粹「水晶之夜」？西安「方方」長文擊中官方痛點，與美國百萬感染記錄有何聯繫？爆料劉亞洲後，紐約作家再爆栗戰書出事｜ 遠見快評 唐靖遠 ｜ 2022.01.05
@@ -2780,8 +2780,8 @@ ShiShan|qQ-RLJYhI_s|4.23【#新聞不過濾】誰會被扔下大海？習近平�
 ShiShan|A-PewubaxAw|4.23 絕非玩笑！大陸這些銀行沒錢了。北京「別他M逮我」，上海「四月之聲」中共進入崩潰前夜。 ｜#石山視點
 ShiShan|z1GffmKkF2M|【4.24菁英論壇直播】備戰台海？中共急換港特首有內幕；防香港民主風，中共反恐官員任港官；四十年籌謀，「地下黨」治港大揭秘。｜ #石山視點
 ShiShan|LBCRpJcytzw|4.24【#軍火庫】 在戰場上出鏡率最高的主戰坦克，誰能稱之為陸戰之王？｜ #石山視點
-ShiShan|Cc9xFTIrovk|4.25【#時事軍事】中共覬覦北極巨大利益，卻因俄烏戰爭變得前景黯淡（粵語）｜ #石山視點
 ShiShan|MTCUPTqpPmY|4.25【#新聞不過濾】嚇壞中南海！日媒曝台灣量產神秘飛彈，射程1200公里可「直取東部戰區」。俄軍？共機又墜毀，逃生飛行員中出現紅髮外籍軍人！
+ShiShan|Cc9xFTIrovk|4.25【#時事軍事】中共覬覦北極巨大利益，卻因俄烏戰爭變得前景黯淡（粵語）｜ #石山視點
 zcwhwg|yopIWJX82P0|《活摘 十年調查》一個中國軍醫十年調查出活摘器官的真相
 zcwhwg|xeQWQYBy6L4|La sustracción de órganos --10 Encuesta （西班牙）
 zcwhwg|AV1lH5N6QWM|Harvested Alive (English trailer) Ten year's investigation of Force Organ Harvesting
@@ -3525,7 +3525,6 @@ Taiwan1000|FkG5xknIQYc|【高雄苓雅】不踩雷熱門美食看這集！自強
 Taiwan1000|8aLyrlUEm7I|【台南後壁】跟《俗女》玩菁寮～中藥行拍經典劇照，三合院直擊小嘉玲生活空間，菁寮老街重現「嫁妝一牛車」，百年碾米廠認識米糧文化，農村必吃美食割稻飯，再漫步24節氣步道！｜1000步的繽紛台灣 Ep408
 Taiwan1000|rcRlVpaxAVU|高雄苓雅區美食-洪記煎餅果子‼️ #高雄美食 #苓雅區美食 #高雄小吃 #台灣小吃 #洪記煎餅果子 #自強夜市 #Taiwanstreetfood #Kaohsiung
 Taiwan1000|DmvyrsqUdaw|【台南府城】大學生輕旅行～跟著承翰玩台南！先到全臺首學走一回秀才路，再來吃充滿回憶的素食漢堡，還有學生最愛的杏仁豆腐冰；來蝸牛巷漫步尋寶，再到漁光島吹海風看夕陽！｜1000步的繽紛台灣 Ep409
-soh-tv|riUfGAoDG_E|美駐華大使館宣布放寬限制,在上海實施撤離行動
 soh-tv|XJnS2cEkww4|烏克蘭入歐盟再邁一大步；被挖了兩個不同的大坑 普京將不得不接受習近平的領導？
 soh-tv|qLh3sc2T9Ss|上海因疫不正常离世人数曝光 ；前檢察官網上求救 台資深演員處境淒慘
 soh-tv|2pdGj_xXhn8|中國供應鏈癱瘓，劉鶴一舉措暴重大意圖；慘！滯留高速的大貨司機變「難民」
@@ -3575,6 +3574,7 @@ soh-tv|lJs9xVg5eSM|真懸了！北京封城壓力空前，市民緊張到極點�
 soh-tv|0M1d7iaCqts|習近平獲全票 黨媒詭異稱危險了！操盤手竟是他？封城害自己 劉鶴出手能破局？
 soh-tv|LkIF9gpRoGU|封城新招加重民怨，滬居民奮力反抗
 soh-tv|DB5JjDAaRsk|封城~專家教你如何囤糧防災
+soh-tv|6PrzGJD1NB8|「被黄标」中共軍機意外 惹美情報關註 這下事大了；澤連斯基不可能的任務
 EricBerg|29gHaetl4F0|8個慢性致癌原因,柏格醫生 Dr Berg
 EricBerg|H2wxzoKTc-w|呼吸法減輕氣喘,失眠,過敏,柏格醫生 Dr Berg
 EricBerg|GVK-Ia2SdM8|每天吃四顆蛋的原因,柏格醫生 Dr Berg
@@ -3825,7 +3825,6 @@ Era-Money|vwY0aP8SOCc|精彩片段》吳明杰：美軍還是佔優勢...【年�
 Era-Money|1Qv02Jmy7h4|《二十大前還會大亂？！習近平清零就是目標！中國疫情牽動二十大布局？！》【2022.04.23『年代向錢看』週末精選】
 Era-Money|-XDh_zvvelE|《拜登出手！美軍新世代陸基洲際飛彈「哨兵1型」現身！搭載熱核彈頭！可瞄準習近平跟普丁50年？！》【2022.04.23『年代向錢看』週末精選】
 Era-Money|DKZr0vXRYKU|《上海封城阻疫情！全球供應鏈弱點一夕洩漏？！疫情衝擊中國！全球陷斷鏈危機？！》【2022.04.24『年代向錢看』週末精選】
-ntdtv-tw|KzOFAM3oXJk|美M1戰車訓練盟友官兵 台軍國名制服參訓｜@新聞精選【新唐人亞太電視】三節新聞Live直播 ｜20220421
 ntdtv-tw|2ApyPqbydT0|學者預期 中國經濟成長率恐跌破4%｜@新聞精選【新唐人亞太電視】三節新聞Live直播 ｜20220421
 ntdtv-tw|9_ac5KOQ1UU|中共封殺 發布上海疫情相關信息被打壓｜@新聞精選【新唐人亞太電視】三節新聞Live直播 ｜20220421
 ntdtv-tw|KRORnJ8V_5c|法官推翻口罩令 美航空鐵路等公司跟進｜@新聞精選【新唐人亞太電視】三節新聞Live直播 ｜20220421
@@ -3875,6 +3874,7 @@ ntdtv-tw|ad5OOvliDTU|烏俄復活節不停戰 馬里烏波爾平民地堡艱難�
 ntdtv-tw|IdEst9ZU21Y|親歷疫情封城 原武漢居民：民不聊生｜@新聞精選【新唐人亞太電視】三節新聞Live直播 ｜20220424
 ntdtv-tw|XQWtk4PbO0E|歐盟達成協議 建立新規則監管谷歌臉書｜@新聞精選【新唐人亞太電視】三節新聞Live直播 ｜20220424
 ntdtv-tw|TQclrXJMkRU|白宮：中共若在所羅門軍事擴張 美將回應｜@新聞精選【新唐人亞太電視】三節新聞Live直播 ｜20220424
+ntdtv-tw|yl1QR-MhnEs|🔥馬克宏連任法國總統│布林肯抵達基輔│北京市民恐慌上海模式再現｜早安新唐人【2022年4月25日】@新聞精選【新唐人亞太電視】三節新聞Live直播
 LiangZhen|gZ_vu0cJH7I|吳明德(119)：(中字)捉伊人？特首跑馬仔遲不入閘的原因；毋須擔心新特首組班，中共宣傳機器已備好；左媒吹風不可信，專攻林鄭各有盤算｜2022年3月30日｜珍言真語 梁珍
 LiangZhen|RkiZ3FHvv4U|【3.31直播】王岸然(29)：兩英籍法官辭任，稱港府背棄自由價值觀；職工盟被搜，4成員被帶走助查；警招募撤需住滿七年限制｜2022年3月31日｜珍言真語 梁珍
 LiangZhen|wPRcU-PyCc8|【3.31直播精華】王岸然：請唔到人？港人寧可做保安，都唔肯做差人；基層警員一定要接觸市民，不熟悉本地點做？｜2022年3月31日｜珍言真語 梁珍
@@ -3925,7 +3925,6 @@ LiangZhen|Gtb8hk5zJrQ|【4.23直播】沈四海(25)：美澳官員突訪所羅�
 LiangZhen|yy5WAhUs62E|袁弓夷(上)：(中字) 夜總會文化由上海人帶來！老一輩香港人與上海淵源深；聽上海人袁爸爸介紹舊上海真貌；封城玩殘上海經濟，重開無法彌補｜2022年4月23日｜#珍言真語 梁珍
 LiangZhen|8wIBL4Z4tTU|【4.24直播】林匡正(53)：被狂轉和狂刪的《四月之聲》；傳復旦大學爆衝突遭嚴密封鎖；葉劍英孫女質疑上海疫亂是有人搞事；捐款李家超要用現金？｜2022年4月24日｜珍言真語  梁珍
 LiangZhen|MPzjsWYhXkU|袁弓夷(下)：(中字）闊太狂掃上海樓成楝買，香港老公慘變大閘蟹；與劉嘉玲是鄰居，她現在放盤已太遲；上海銀行匯出額俾權貴霸晒！中共眼中有資產就是罪，港人還是不懂共產黨｜22年4月24日｜#珍言真語 梁珍
-hk-news|eOnQWEK6AVo|白衣袖過地 萌娃獨自去隔離點｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|K8yJrEUrdCw|封區鑽狗洞 被逮正著｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|QduSXexu1bA|大白代替城管打人｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|GyYVpIcFVi8|出方艙  消毒！｜ #香港大紀元新唐人聯合新聞頻道
@@ -3975,6 +3974,7 @@ hk-news|9_YjMf-ebVc|【4.24菁英論壇直播】備戰台海？中共急換港�
 hk-news|m7JiipCAchs|【新視角聽新聞】YouTube和面書 4月20日，採取行動，封鎖香港行政長官唯一候選人、前保安局長李家超在社交媒體上的頻道。這是兩家科技巨頭遵守美國制裁的不尋常舉措。｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|6ML7b7eOYsk|【新視角聽新聞】上海封城近一個月，作頻繁的核酸檢測，導致上海部份市民反彈，紛紛抵制中共當局極端的防疫措施。有專家認為，在頻繁的核酸檢測背後，是中共借疫情發國難財。  ｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|1Mu7BbnjDYY|【預告片】袁弓夷(下)：闊太狂掃上海樓成楝買，香港老公慘變大閘蟹；與劉嘉玲是鄰居，她現在放盤已太遲；上海銀行匯出額俾權貴霸晒！中共眼中有資產就是罪，港人還是不懂共產黨
+hk-news|2Vr4rC31TSg|【新視角聽新聞】上海疫情嚴重，中共官方通報超過40萬人感染病毒 ，有17人死亡。而官媒稱「歐美躺平」，為中共極端防疫站台，分析認為，這是混淆概念並移花接木。｜ #香港大紀元新唐人聯合新聞頻道
 VisionTimes-HK|Hip9VfWv4lU|【內幕】美女治國的芬蘭竟敢跟俄羅斯叫板的原因
 VisionTimes-HK|IhCdLMIKGOI|看完這個 共軍最牛戰艦再也不敢打台灣了！好消息！黎智英黃之鋒獲諾獎提名！林瑞陽張庭遭鐵拳 96套房產被沒收 #香江快報
 VisionTimes-HK|Q-JWDwyaxak|【戰局】「頓巴斯之戰」打響之際 習近平為普京搖旗吶喊；烏東大戰是命運之戰？烏克蘭：以少勝多 出奇制勝；英國提供西方最好武器 地獄般攻擊令俄軍飛行員瑟瑟發抖
@@ -4023,7 +4023,7 @@ VisionTimes-HK|7g0rMvTT9G4|【內幕】真實的馬里烏波爾 還能挺住麽�
 VisionTimes-HK|wAax4P9sv4Y|復旦大學炸鍋！傳王思聰進方艙！復旦退休教授求醫未果撒手人寰 #香江快報
 VisionTimes-HK|4z9_Xa9i9eQ|中學生時爆金句：港豬瞓醒啦豬是用來劏架【Lucy連線】許穎婷：生為香港人（死）為香港魂 幾年前立會爆金句串爆藍絲 今日獲庇護續為港發聲 不能郁親人聯絡至痛苦每一個社區角落都放唔低 去到邊都係香港人
 VisionTimes-HK|nk5R3_yaVAI|【字幕】何良懋：清零引發國安危機？習近平若在香港 應該被捕！
-VisionTimes-HK|srzKVuO-Spc|【Lucy連線】潘焯鴻：清零封城 會起義麽？上海慘狀視頻四月之聲瘋傳億萬次 林鄭躺平了唔做嘢 香港人依家繁榮啦
+VisionTimes-HK|srzKVuO-Spc|【Lucy連線】潘焯鴻：清零封城 老人怎麽辦？上海慘狀視頻四月之聲瘋傳億萬次 林鄭躺平了唔做嘢 香港人依家繁榮啦
 VisionTimes-HK|GUiDYGxJwu8|突發！中共軍機墜毀！驚現外籍軍人！葉劍英孫女爆上海亂象內幕「損失比烏克蘭還大」 #香江快報
 ntd-news|Kwk8wD0BAM4|王維洛：驚人水污染被掩蓋，魚鴨都罹癌；日本地下水比中國飲水乾淨180倍；奧運爆北京飲水竟不如泳池；水污染影響深，調查報告被雪藏；中共治理絕招：解決提問題的人【#林瀾對話 04_17】｜ #新唐人電視台
 ntd-news|PFUaScfAuTU|不理會俄羅斯威脅 烏克蘭劃談判紅線；宗教節日重疊 以巴警民阿克薩清真寺再衝突；滴滴5月召開股東大會 就美國退市投票；山西太原快遞傳染鏈擴大 鄭州封控升級。【 #環球直擊 】｜ #新唐人電視台
