@@ -61,8 +61,9 @@ while read line; do
 		fi
 	fi
 
-	sed -e "s/#vname#/$vname/g" -e "s/#channel#/$folder/g" \
-		-e "s/#title#/$title/g" -e "s/#serverip#/$ip/g" -e "s/#dataserverip#/$data_server/g" \
+	sed -e "s/#vname#/$vname/g" -e "s/#channel#/$folder/g" -e "s/#title#/$title/g" 
+		-e "s/#serverip#/$ip/g" -e "s/#dataserverip#/$data_server/g" \
+		-e "s/#hlsport#/$hls_port/g" -e "s/#dlport#/$dl_port/g" \
 		 /root/youtube-video/template/player.html > $video_dir/$vname.html 
 
 	grep -- $id list.txt > /dev/null 2>&1

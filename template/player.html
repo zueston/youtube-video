@@ -60,14 +60,14 @@
             <div>
                 <video id=player class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto"
                     autoplay poster="">
-                    <source src="http://#dataserverip#:88/hls/#channel#/#vname#.mp4/index.m3u8"
+                    <source src="http://#dataserverip#:#hlsport#/hls/#channel#/#vname#.mp4/index.m3u8"
                         type="application/x-mpegURL">
                 </video>
             </div>
             <ul class="list-group">
                 <li class="list-group-item links">
-                    <a href="http://#dataserverip#/#channel#/#vname#.mp3" class="dl">下载音频</a>&nbsp; |&nbsp;
-                    <a href="http://#dataserverip#/#channel#/#vname#.mp4" class="dl">下载视频</a>&nbsp; |&nbsp;
+                    <a href="http://#dataserverip#:#dlport#/#channel#/#vname#.mp3" class="dl">下载音频</a>&nbsp; |&nbsp;
+                    <a href="http://#dataserverip#:#dlport#/#channel#/#vname#.mp4" class="dl">下载视频</a>&nbsp; |&nbsp;
                     <a href="./qr.png" class="dl">分享二维码</a>&nbsp; |&nbsp;
                     <a href="http://#serverip#:10000/helloworld/">下载APP</a>
                 </li>
