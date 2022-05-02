@@ -1,1 +1,3 @@
 data_server=
+hls_port=88
+dl_port=80
