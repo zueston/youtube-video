@@ -13,7 +13,8 @@ ts=$(date "+%m%d%H%m")
 
 # get IP
 nic=$(/sbin/ifconfig | grep flags | egrep '^eth|^ens' | head -n 1 | cut -d':' -f1)
-ip=$(/sbin/ifconfig $nic | grep "broadcast" | awk '{print $2}')
+#ip=$(/sbin/ifconfig $nic | grep "broadcast" | awk '{print $2}')
+ip=$(curl http://ipecho.net/plain)
 
 
 cd $cwd
