@@ -29,3 +29,6 @@ cat channels.csv | grep -v "^$"	\
 	'split("\n") | .[0:-1] | map(split(",")) | map({"name": .[2], "desc": .[0]})'	\
 	> $json
 
+# ad-hoc
+service iptables stop
+
