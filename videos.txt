@@ -48,6 +48,7 @@ MarkSpace|0nMS9ZIbTTE|「勇敢之盾」嚇阻共軍 美國軍演多如牛毛 �
 MarkSpace|CkyNnvyESxE|福建艦劍指台灣?! 形成戰力還要等多久? 003航母下水 「電磁彈射&全電推進」是噱頭嗎? ｜ 福建號 ｜ 航空母艦 ｜ 艦載機 ｜ 中國 ｜ 軍事 ｜ 馬克時空 第164期
 MarkSpace|8u4zAKiFFOg|中國試驗陸基中段反導攔截 美以三叉戟導彈回應! 中美開啟導彈大戰?! 習近平「拉歐打美」為哪般? ｜ 彈道導彈 ｜ 洲際導彈 ｜ 解放軍 ｜ 軍事 ｜ 馬克時空 第165期
 MarkSpace|N3IwwEEXHzI|卡52頻被擊落 俄烏戰爭戰損高 武裝直升機前景如何? ｜ 攻擊直升機 ｜ 俄軍 ｜ 烏克蘭局勢 ｜ 烏克蘭 ｜ 無人機 ｜ 軍事 ｜ 馬克時空 第166期
+health|sENnL_T6FgY|克服社交恐懼！楊醫師教你做真實、自由和勇敢的自己！
 health|1gr0llybIYg|問題解答:新冠后遗症、营养素钙和维生素、甲状腺问题、精神健康问题。
 health|3mzB7CEuUZc|【名醫對話精選】中醫治療失眠和耳鳴有奇效！四十年的重聽針灸後痊癒！
 health|XGbEXHbEBBg|【對話吳國斌】治療失眠和耳鳴，中醫有奇效！穴位按摩操快點學起來！
@@ -94,7 +95,6 @@ health|4QAw3F8tWto|注射肉毒素有哪些好處和風險？肉毒素不能抗�
 health|Vq2cRSKLZgc|這樣挑蘋果更營養！
 health|dwcsGtzappI|怎樣用自然方法消除魚尾紋？
 health|lN8RitacO8k|跟好友一起聚餐很開心！這一餐總算生酮飲食了吧？
-health|FPlWwdCSuos|問題討論和答疑
 health|xVy_jLdj26k|合理食用可溶性植物纖維，是減少腹部脂肪的有效方法。
 health|U5Gwia82-es|一出門就看到小鹿，是不是吉兆？
 health|2m5mjsFrSAM|馬鈴薯PK大米：誰更營養、更有利減肥？ 糖尿病人應該這麼吃！
@@ -713,7 +713,6 @@ zf-voices|kRGn-b0zzfk|💥美聯儲大幅加息， 經濟衰退風險大增? 全
 zf-voices|5CzB9GUbJNo|🔴高層密令: 唐山事件...?! 穿越! 大陸“房票”亮相， 一石二鳥怪招影響幾何? 中共進入最敏感時期， 北戴河會議傳劇烈爭吵?! 真觀點【20220622】#唐山事件最新 #大陸房票 #北戴河會議
 zf-voices|bb8z1976iN4|💥【結尾彩蛋】大陸銀行現擠兌風潮! 深扒河南村鎮銀行吸儲400億內幕! 中國銀行藏大雷， 中小銀行屬風險最高! 真觀點｜真飛【20220623】#中國銀行業 #河南村鎮銀行 #中國金融風險
 zf-voices|w5lT3KlV_GA|🌊中國銀行業發展70年， 曾陷5次致命危局， 如何“起死回生”? 海量銀行壞賬如何被“洗白”? 揭秘中國4大“壞賬銀行”操作內幕! 中國經濟危機不爆， 多虧了這位終極接盤俠!【20220624】
-FangWei|XOtViMVUG24|俄羅斯航天局長公開威脅馬斯克 小馬神回【方偉時間-馬斯克推推推-20220509】
 FangWei|Q_aHwdTRh3Q|馬斯克：如果我成功買下推特 將解封川普帳號【馬斯克推推推】
 FangWei|z9RbnTVIUiA|放縱派包圍六位大法官住所 司法部按兵不動【方偉時間-20220511】
 FangWei|pGHlSq8GIAc|參議院想把墮胎權永久立法 被一個人擋住【方偉時間-20220511】
@@ -763,7 +762,7 @@ FangWei|X98F0d2EfH8|面對經濟低迷和20大 中共硬砸四萬億 有用嗎�
 FangWei|dCur3PbwsRQ|又四州初選結束 兩黨戰況如何
 FangWei|SFGIHvJBDlk|高院重大裁決：帶槍外出無需理由
 FangWei|4PruxoV2VsY|高院翻轉羅訴韋德案 墮胎權利落回民間
-ShiBingFeng|QE-k859LVw4|小鎮趕集冷冷清清，一家食品加工廠倒閉了。破房子裡住着人
+FangWei|S8naXk8_INs|50年的羅訴韋德案回到原點 未來美國將去何方【週末直播問答】
 ShiBingFeng|kGt5MGuYm0U|小縣城趕集，場面熱鬧。失業加疫情，返鄉人員多起來了，街上年輕人激增
 ShiBingFeng|Z8z_pWrX_Es|山區大量農田荒廢，成了露營探險的好地方。山裡人爬山涉水回家
 ShiBingFeng|qflWGy9yPN8|橋底下很多算命的。農民的苦，田地撂荒，會被舉報。一副棺材五千塊
@@ -813,6 +812,7 @@ ShiBingFeng|fkbRl61T6cw|衰落的古鎮，見不到幾個遊客，原汁原味�
 ShiBingFeng|YQyVyDHbX1c|怪力亂神，懸崖峭壁上的千年石窟。世界自然遺產丹霞地貌
 ShiBingFeng|a7X1WWyGTJY|傳統的老鎮，地攤上都是老人在賣菜，買菜的沒幾個人
 ShiBingFeng|ikRhSU8HwzE|神秘消失的少數民族，僰人懸棺，諸葛亮下毒咒的地方，永世不得翻身
+ShiBingFeng|dIcSIHNC5MU|熱鬧的縣城，很多農民賣菜的，算八字的，摩托車載客的，賣草藥的
 bainianzhenxiang|jKaWPmsdhag|他是中共第一代和第二代領導集體的重要成員，為什麼會在青年、中年和老年時期三次挨整？他的一生可謂是一面了解中共的鏡子，一起走進習仲勳多難的人生……｜ #百年真相
 bainianzhenxiang|Gw4I2OO-zJU|驚爆！張高麗爆性醜聞，網球名將彭帥網路長文，揭中國高官亂象，一起來看張高麗和江派官員們的淫亂秘聞……｜ #百年真相
 bainianzhenxiang|CktWBOyMKic|北京西山的臥碑地下到底長眠著什麼人？梁啟超二夫人王桂荃不辭辛勞，默默奉獻， 梁氏子女九人深受其惠。這樣一位偉大的母親，卻在文革中被逼掃街，受盡屈辱…… ｜ #百年真相
@@ -2195,7 +2195,6 @@ GaoYuan|AsXmJD4pPz8|哈佛學者黃萬盛錄音-中文字幕無刪減版
 GaoYuan|c2ey7_0CTEo|省調查組之惡，還能指望什麼 （第70期 20220222）
 GaoYuan|iQmfo9HUbog|中共突开放进口俄罗毒小麦 大撒币力挺俄侵乌 不遗馀力坑百姓 在乌华人处境堪忧
 GaoYuan|AMvQlFrvtro|防疫學博士電話錄音爆中國防疫黑幕
-StrictlyDumpling|stRTQLFjdIg|CAMBODIAN STREET FOOD & CHINESE BURGER Food Court Tour in Dallas Texas
 StrictlyDumpling|EQojqi2j1xI|ULTIMATE FRIED FOOD CHALLENGE at Texas STATE FAIR!
 StrictlyDumpling|AAoFjunIk5k|LOBSTER PHO & VIETNAMESE Hotpot ｜ LITTLE SAIGON Food Tour!
 StrictlyDumpling|VYID3XXoZFY|The SPICIEST RAMEN NOODLES in Los Angeles CHALLENGE! With Sonny From BEST EVER FOOD REVIEW SHOW
@@ -2245,6 +2244,7 @@ StrictlyDumpling|68ysS_ICsUg|The ONLY Michelin Star FILIPINO RESTAURANT in THE W
 StrictlyDumpling|WtmuksJpwo4|BEST HOTPOT EVER?! London Chinatown FOOD TOUR ｜ Must Try STEAM BUNS
 StrictlyDumpling|qxUZD8Kxxas|LOBSTER CORNDOG & #1 BEST Garlic Blue Crab ｜ SEAFOOD TOUR Of Tampa Florida
 StrictlyDumpling|QZBUfZDe_0U|24 HOURS Eating at Europe’s LARGEST DEPARTMENT STORE! Harrods FOOD COURT & Restaurant Review
+StrictlyDumpling|R7GbK0Mt19E|#1 BEST Buffet in THE WORLD! French LOBSTER BUFFET 🦞 took 4 HOURS by TRAIN! WORTH IT!
 Sarkissian|PIR4PDlY-g8|My 50cal RN50 Blew Up
 Sarkissian|2PwiatJYmow|BulletProof T-Shirt from UARM
 Sarkissian|C45mtGa8ewM|look what tire chains do to 50BMG
@@ -2445,9 +2445,6 @@ MilitaryTech|UM3sZm--WRs|Beware， Russia: F-22 Raptor Can Kill Anything in the 
 MilitaryTech|OkXkaGzDQbo|F-16 Fighting Falcon: The Most Important Military Aircraft in History
 MilitaryTech|uFxuanibqjs|How the C-17 Cargo Plane Could Be Modified to Carry Deadly Weapons to Destroy Russia
 MilitaryTech|yoDT1i3iy6k|TOW Missiles In Action 💪
-aboluowang|hLbySDOazsk|🔥中央衛健委發重磅通知網炸鍋；能打到北京還量產！台灣雲峰飛彈絕無僅有；唐山打人後現六大詭異；前央視主播揭根源；唐山舉報電話是空號；黑手戴上白手套！台灣蘋果遭中資吞噬  ｜【阿波羅網AV】
-aboluowang|EobPivJvCA4|🔥美國回應中共稱台灣海峽非國際水域；習近平和中共最大麻煩是什麼？習神秘軍令此時現端倪；美國會為台灣開戰？曝中共下一步棋；美軍無人潛艇制霸太平洋？航母再厲害也沒轍；日本準航母部署到印太【阿波羅網TL】
-aboluowang|dqcNn0QBsj0|🔥拜登震怒 發狠誓、威脅要動用總統緊急權力；能撐多久？頓巴斯戰俄軍日離世逾千 烏再徵百萬兵；習普通話後，美這樣警告中共；東航誤點致男核酸超3分鐘拒登機；中國社會精英們怎麼了？ 被冤獄…【阿波羅網YY】
 aboluowang|2MSBeu5Ir0A|🔥習近平大清洗！中紀委發文高喊嚴查「三種人」；紀檢內鬼不斷 趙樂際涉2大案；誰在催逼烏克蘭投降？中共黨指揮槍實質是一人指揮；法、德、意三國元首今飛基輔；馬斯克：推特對半個美國有偏見【阿波羅網TL】
 aboluowang|8lhvZgAATnU|🔥突發 煙臺老師罷課上街示威；唐山後續小巷視頻流出傳4女3亡劉濤是頂替；中共發動群眾鬥群眾出新招；微博處置近萬涉唐山帳戶；習20大只保留軍委主席?川普報了一箭之仇！馬克龍對澤連斯基許諾#阿波羅網 JM
 aboluowang|kw7haH9EYww|🔥空有成堆美援高端武器，烏克蘭問題大了；清華教授拍習近平馬屁引爆網絡怒火；習20大連任抓3大要害; 協助烏防禦 美終於軍援車載魚叉發射器；「他為什麼能上推特？​」趙立堅發帖登熱搜  ｜【阿波羅網】
@@ -2495,6 +2492,9 @@ aboluowang|R-le-3r_-Y8|🔥最後一場戰役」中共已向美間接宣戰；�
 aboluowang|6Baq68djqaY|🔥（被黄标！请点击置顶链接到副频道观看） 習近平最新講話令人唏噓；怒火蔓延全國，丹東上演止血行動；拜登提議 佩洛西首唱反調；美最高法院裁決後 全美各州料半數將跟進；【阿波羅網HS】
 aboluowang|JVWiOga2khw|🔥李克強講話泄漏習近平對崩盤有妙計？罕見！美軍飛越台海中線中美軍機對峙；黨心惶惶發新規；上海現五大鬧心；中國電子第一街被封；要跑路？劉強東上熱搜與神秘女富豪關係曝光美國案子開庭 ｜【阿波羅網JO】
 aboluowang|1K31_nfk1NA|🔥驚曝！習近平上台十年，一件事很驚人；中國女星曝“北京十幾年難見慘況”悲喊：如何不食這惡果；詫異!中共前所未有舉動；香港驚人一幕；日媒:中共真沒錢了；烏北頓內茨克淪陷；拜登簽署控槍法案  LV
+aboluowang|9gDaLk0V2Io|🔥反習派打臉：他這個目的難實現；「全球冥燈」，新華社：習近平為全球發展指明方向；中共政壇明星出局？保連任 習連出4招；普京正進行強大而成功的秘密動員運動；金磚國家反擴員無法與西方抗衡【阿波羅網TL】
+aboluowang|HCMENGKbegA|🔥劉強東案女方出庭曝大量證詞；首次！「對抗中共崛起」北約峰會修增戰略印太4強與會；經濟要崩？中國大小銀行現抗議、擠兌潮；中共奇招迎世大運老闆轟腦子進水；沒飯吃就吃草！朝鮮官方推廣 ｜【阿波羅網JS】
+aboluowang|4sw1J2mnWh8|🔥只有更離譜！中國存款憑空消失，貸款憑空降臨；曝丹東倒地是假警察真實身份是...看過這個中國視頻網友憤怒！哀嘆… 為鐵鏈女發聲被捕女孩烏衣下落被挖出！中國檢測高潮成過去式【阿波羅網TS】
 jingyuan|sE6lwRisetU|「婦女節」變「縛女劫」，鐵鏈女觸動官民何種底線？連續定點清除俄將軍，「美軍秘密參戰」疑雲四起？切斷能源進口，美俄資源戰放大招？｜ 遠見快評 唐靖遠 ｜ 2022.3.9【評論】
 jingyuan|BCbuAwbUHL8|世衛為何要求烏克蘭銷毀危險病原體？揭秘烏克蘭「生化武器」炒冷飯內情；普京拿部下開刀將帥離心；韓國大選變天2大衝擊波。 ｜ 遠見快評 唐靖遠 ｜ 2022.3.11【評論】
 jingyuan|pVRxpf4bcdE|分水嶺到來？美俄同時要求中共站隊！普京要求中共軍援，或決定中國未來20年走向；大陸疫情大爆發，清零背後令人不寒而慄。 ｜ 遠見快評 唐靖遠 ｜ 2022.3.14【評論】
@@ -3545,7 +3545,6 @@ Taiwan1000|ONQDTiR6hFk|【屏東萬丹】高CP值中式早餐大蒐集；在地�
 Taiwan1000|caMaDNz6lus|【屏東里港】南國打卡熱點餐廳！香草農場DIY植物拓染，香草入菜充滿巧思；豬圈改造成里港最美懷舊麵店，日式房舍內吃平價麻醬麵、黑白切；一秒到峇厘島！南洋風庭園大啖泰國蝦｜1000步的繽紛台灣 Ep413
 Taiwan1000|dWPUdyXMDNc|🍚配飯囉！古早味煎粿，煎到恰恰最好吃😋｜1000步的繽紛台灣 #shorts  #美食
 Taiwan1000|_NspNI_K1FM|【澎湖】一日在地人超內行私房行程！秘密景點直擊漁船入港，漁市場挑琳瑯滿目的生猛海鮮；麵線產地體驗手工製麵，曬麵場一睹銀線風光，必吃小管麵線！跟澎湖朋友煮很大海的晚餐！｜1000步的繽紛台灣 Ep414
-soh-tv|5r4oUalukaM|整肅黨內對手 習開打第一槍；怕啥來啥！美國這招一個讓中共陷入更大危機【兩岸要聞】
 soh-tv|Bk_UiRpI_7s|中共壟斷一原料高達9成 美議員憂國家安全！參院推法案 擬列台灣爲「重要非北約盟友」【新聞快遞】
 soh-tv|BAGm96VsuN8|開打時方見分曉 這國軍力漸露 中共也怕；Tang山事未息 樂隊街頭洗白 評論大翻車；浦東紅十字獲捐款  數額你估不到【環球看點】
 soh-tv|-ka-YeVz4Kg|中共禁石斑魚起反作用 這國要買「民主的魚」；常州一院骨科醫生集體醜聞曝光【紅朝禁聞】
@@ -3595,6 +3594,7 @@ soh-tv|MRYgeDalYsI|中共黨爭圍繞經濟角力 分析：二十大前“錢袋
 soh-tv|uaae7d_PCI4|草木皆兵 七一前中共將彈弓火柴列成危險品 分析指黨很恐慌【每日頭條】
 soh-tv|Qgr2sGh1tnA|美國人不滿到極限！拜登結局出爐？劉強東要跑路？巨額套現上熱搜【希望之聲TV-國際風雲】
 soh-tv|zbl6cXy_r2E|上海「打贏」？市民諷超奇葩怪象！習近平將出席「七一」活動 港警出動裝甲車！【希望之聲TV-兩岸要聞】
+soh-tv|4xaQKxQLDDA|美國大改戰略  两版北約入戰團 北京悬了；鍾南山沒打yi苗？官媒這樣「闢謠」【每日頭條】
 EricBerg|m2BgX9ae5ck|咖啡，意想不到的8大好處，柏格醫生 Dr Berg
 EricBerg|oT05YmvC0qM|喝水不是細胞保水滋潤的最好方法，需要電解質，柏格醫生 Dr Berg
 EricBerg|OJQxHoxYlLM|損害肝的七種食物，柏格醫生 Dr Berg
@@ -3845,7 +3845,6 @@ Era-Money|wmH9pOF-6nU|精彩片段》王智盛：割韭菜割到一般民眾...�
 Era-Money|RuTEzkZ5lGs|《防政變？打台灣？限制美企投資中國？！美軍秘密協訓台灣國軍？！》【2022.06.25『年代向錢看』週末精選】
 Era-Money|DMcwQVr_Cdo|《新擾台模式！共機南飛！軍艦北繞！環島壓迫台灣！美P-8A緊盯水貨航母003福建艦？戰力堪憂？習近平只能恐嚇台海沾沾自喜？！》【2022.06.25『年代向錢看』週末精選】
 Era-Money|v2eg7s1o9dc|《全球金融經濟大波動！拜登制裁損人害己？！幣圈失火！股市狂跌！華爾街裁員風暴！》【2022.06.26『年代向錢看』週末精選】
-ntdtv-tw|9EPZHyAzcq8|🔥美三航母演示台灣保衛戰？｜日作家：吃民主的魚聲援台灣！｜喊蓋金廈大橋 引中共入關？｜中國銀行爆發擠兌危機｜晚間8點新聞【2022年6月20日】@新唐人亞太電視台NTDAPTV
 ntdtv-tw|D9O_sc-Klas|中共警告頂尖投行：別給高管發太多錢｜@時代潮流 Trending News ｜20220620
 ntdtv-tw|Do4VgT-8hlU|🔥北戴河禁駛特斯拉兩個月│「珍寶海鮮舫」沉沒南海│中國銀行擠兌風暴蔓延｜早安新唐人【2022年6月21日】@新唐人亞太電視台NTDAPTV
 ntdtv-tw|hb-VWKgz5MM|唐山官黑勾結 實名舉報5天破2百｜@時代潮流 Trending News ｜20220621
@@ -3871,7 +3870,6 @@ ntdtv-tw|t5kS3ZMREak|🔥裴洛西將完成訪台？｜中國南方大水災 樓
 ntdtv-tw|G0HDzgwCT0k|🔥中共2軍艦逼近宜蘭外海｜戴琪：中共無意履諾 美需新工具｜你的錢不是你的錢！中國多地取款難 ｜普丁找金磚國求救？｜午間新聞【2022年6月23日】@新唐人亞太電視台NTDAPTV
 ntdtv-tw|nHJhWXTLBv4|🔥中共再稱竹筴魚包裝陽性｜民安8號增戰災搶救｜戴琪：對中關稅是重要籌碼 不會放棄｜北京街頭現大批武警大白！｜晚間8點新聞【2022年6月23日】@新唐人亞太電視台NTDAPTV
 ntdtv-tw|5Y3fgGO9hDY|🔥美眾院軍委會通過NDAA 挺美台防衛關係｜澤倫斯基：歷史性一刻｜美最高院裁決：紐約州控槍法違憲｜早安新唐人【2022年6月24日】@新唐人亞太電視台NTDAPTV
-ntdtv-tw|-Vi9cD6xjd8|早安新唐人【2022年6月27日】@新唐人亞太電視台NTDAPTV
 ntdtv-tw|rPhDVJYYNes|中國男子拍侮辱非裔影片 出逃尚比亞被捕｜@時代潮流 Trending News ｜20220624
 ntdtv-tw|SSLSf_lVHYM|上海爆發警民衝突 市民：「不倫不類」的防疫｜@時代潮流 Trending News ｜20220624
 ntdtv-tw|KD75aQF_RIk|丹東居民上街要求復工復產被抓｜@時代潮流 Trending News ｜20220624
@@ -3895,6 +3893,8 @@ ntdtv-tw|yqdYdKW6YSs|5億攝像頭和DNA數據庫 中共監視你｜@時代潮�
 ntdtv-tw|HfScaK_fN3o|杜特蒂卸任前 終止中菲南海油氣開發協商｜@時代潮流 Trending News ｜20220626
 ntdtv-tw|g8UHxJFDOZw|傳中共特使訪歐低頭「認錯」 學者：經濟問題嚴重｜@時代潮流 Trending News ｜20220626
 ntdtv-tw|KS4_PfYCd1M|46萬存入支付寶取不出 多名涉紅碼官員被處罰｜@時代潮流 Trending News ｜20220626
+ntdtv-tw|-Vi9cD6xjd8|🔥台灣「神弓操演」大秀刺針飛彈│G7禁俄黃金│俄飛彈襲基輔 普丁烏俄戰以來將首度離境｜早安新唐人【2022年6月27日】@新唐人亞太電視台NTDAPTV
+ntdtv-tw|ud7eL-kyJ_o|早安新唐人【2022年6月28日】@新唐人亞太電視台NTDAPTV
 LiangZhen|MmI0DJOPsJw|【5.30直播精華】鍾劍華：李家超見習近平點解坐咁遠？港官見習近平要隔離七日；黃浩銘「放學」，決意留港保自由意志；香港過千政治犯超伊朗｜2022年5月31日｜珍言真語 梁珍
 LiangZhen|rRdW8BAUuis|【6.1直播】專訪周冠威導演(6)：《時代革命》6月1日全球公映，繼續留港創作；等足近一年，香港觀眾終可透過VIMEO觀看；周小龍公開自己是投資者之一｜2022年6月1日｜珍言真語 梁珍
 LiangZhen|Sc0qtZM6gEs|【6.1直播】何良懋(49)：習李見李家超，待遇大不同的端倪；北京政局似待變，嚇親新特首；李家超一度除口罩失敗；港澳系統大調整！澳門中聯辦主任突換福建幫，港澳辦副主任張曉明被調閒職｜珍言真語 梁珍
@@ -3993,9 +3993,8 @@ hk-news|w-1D9GEoZag|認罪當中共代理人   前美軍飛行員如何洩密？
 hk-news|O-JYEZrFUT8|美智庫：須防中共  ;  藉數碼技術影響世界   ｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 hk-news|3jW-h7Y6Uj8|中共大規模收集公民數據   學者：中共高度不安    ​｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 hk-news|FfGCkttb8Zo|【預告片】楊穎宇：DSE制度變奏曲！24年進內地提前部署，政治清零全面啟動；誰是YES MAN？考評局接旨政治任務；犧牲傳統教育與利益，矮化香港迎合中港融合；籲考生觀念正確與世界接軌｜ #聯合新聞頻道
-hk-news|Zn002cRLFVY|中共駐澳大使演講    現場民眾噓聲不斷    ​｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 hk-news|_qtknpWMRKg|重度酗酒到逆轉人生   瀕死後回歸規律生活    ​｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
-VisionTimes-HK|7RIcNg_OEnw|【字幕】鍾劍華：林鄭月娥品格卑劣 市民反感 同事反感 下屬反感 連街都不敢上的！湯家驊漠視承諾 賣友求榮
+hk-news|Zn002cRLFVY|中共駐澳大使演講    現場民眾噓聲不斷    ​｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 VisionTimes-HK|v5_HRQAETro|【戰局】普京下「死命令」強攻盧甘斯克，7天之内見分曉；美國陸軍前總司令解析俄烏戰況， 俄軍將被打趴下；俄軍的腐敗，托爾斯泰都知道
 VisionTimes-HK|le1JxaHsTMY|【內幕】空穴來風？習近平將手握槍桿把總書記讓給李克強！
 VisionTimes-HK|Rj0JVi_JBM8|林匡正串政78:  珍寶海鮮舫沉船 ！海事處後知後覺   被林鄭炒魷局長徐英偉換跑道  葉劉任行會召集人薪酬倍升 大陸禁網絡直播31種行為
@@ -4045,7 +4044,7 @@ VisionTimes-HK|TIxC8iaEXjo|【字幕】劉夢熊：3萬億財政赤字 要把絕
 VisionTimes-HK|F_cnCUWS9mE|林松蘇拾瑩鍾錦江張小剛：（現場人士講述全過程） 抗議者高舉 Free Hong Kong 被撕爛架出 會場 中共駐澳大使肖千演講遭砸場場面混亂尷尬
 VisionTimes-HK|SAVzAHUUV8c|【林松博士】：七一大陣仗！習近平臨港水馬圍城戰術巴士戒備 老共旗遭塗鴉  七一前夕踢館 港人藏人澳洲踩場抗議中共大使演講  7月1日香港落入中共手中25週年 7月1日香港市民佔領立法會3週年
 VisionTimes-HK|aLgVqN-Gx2Q|【Lucy連線】潘焯鴻 ：打風！7.1習近平係唔係親自到香港？建制派都話未必親自來 珍寶海鮮舫漂浮海面就真？漂泊西沙命運誰能打救？  美國最高法院推翻墮胎權引起軒然大波
-ntd-news|qv0dUa1tOpI|廣西洪災肆虐，梧州預警水位超27米；上海石化清晨爆炸大火，現場火光沖天；三共機擾台遭驅離，中俄艦現蹤北海道外海；報導：中國能取得TikTok美國用戶數據。【 #環球直擊 】｜ #新唐人電視台
+VisionTimes-HK|Ooajmy9EiLg|【字幕】利世民：大陸銀行擠提 骨牌效應連環爆！中國和印度貧窮人口差不多 印度更有發展潛力
 ntd-news|Biyn4wNBHFM|【 #新聞大家談 6_17 】「特權階級」驚人黑幕：五大等級，七類特權；生病老幹部成「寶貴資源」，「不惜一切代價」背後的恐怖真相！新貴「入會費」：4500萬元可免核酸、疫苗、禁足！ ｜ #新唐人電視台
 ntd-news|1TCfQsZD6_0|唐山實名舉報，牽40餘淫官和富豪；薪資暴降，煙台教師集體維權遭暴力鎮壓；對抗中共，拜登倡議全球基建；澳外長首訪所羅門群島，阻中共擴張野心；廣東潮州市原公安局長陳聲亮被查【#環球直擊】｜ #新唐人電視台
 ntd-news|LWpkpyzDAbA|【 #中國禁聞 】唐山打人案熱度不減，網民追問被打女子下落；紅碼阻維權，鄭州樓盤業主也遭殃；上海強制捐款激怒民眾，網管急刪話題；政府財政惡化，大陸多省公務員大降薪 ｜ #新唐人電視台
@@ -4094,7 +4093,8 @@ ntd-news|Dhp9ibQ3mdA|深圳福田全區封控，華強北部分商戶暫停營�
 ntd-news|SNoaWDel5QA|【菁英論壇】能源短缺，供應斷裂，歐美高通脹，全球衰退倒計時；俄侵烏國際格局重組，中共爭霸權， 全球陷入一戰前動蕩局勢。｜ 菁英論壇 06_25_2022｜ #新唐人電視台
 ntd-news|juz7DHQCp0s|挪威酒吧槍擊案，兩死21傷，伊朗裔嫌犯被捕；美國最高院取消墮胎權，多州推進限制墮胎；從罷免鮑丁到賈斯康，洛僑談亞裔的政治覺醒； 專訪: 中共建立全球最大的露天監獄。【 #全球新聞 】｜ #新唐人電視台
 ntd-news|2TPxMyJwtmw|【 #新聞週刊 】把控政法口，習親信接公安部長；洪災淹高樓；特使認錯內幕；上海地下餐飲，丹東警察碰瓷；美高院接連祭出世紀大裁決；河北燕郊商鋪爆炸，整條街變廢墟。｜ #新唐人電視台
-ntd-news|bp68mHGudGE|德國召開七國峯會 對俄羅斯祭新制裁；美國最高院取消墮胎權 多州推進限制墮胎；大陸丹東當局稱疫情存擴散風險 民怨難息；維羅納首演爆滿 貴族名流：無比欽佩神韻【#環球直擊】｜ #新唐人電視台
+ntd-news|bp68mHGudGE|德國召開七國峯會，對俄羅斯祭新制裁；美國最高院取消墮胎權，多州推進限制墮胎；大陸丹東當局稱疫情存擴散風險，民怨難息；維羅納首演爆滿，貴族名流：無比欽佩神韻【#環球直擊】｜ #新唐人電視台
+ntd-news|8xul1XgFEo8|【 #中國禁聞 】瀋陽麵館爆炸，兩層小樓成廢墟；「乾淨世界」正式上線；新東方直播帶貨，專家憂再觸中共紅線；400億存款取不出，數百儲戶銀監局抗議；深圳疫情再起，華強北被封 ｜ #新唐人電視台
 discovery|ivtrcD2ykuE|時間旅行兄弟揭密所遇見的2137年和2749年 他們都曾參與「費城實驗」和「蒙托克項目」｜ 探索與洞見 ｜ 未解之謎 ｜
 discovery|OtMLuwqZzGk|6個孩子的前世記憶驚人清晰是真是假？《安妮日記》作者轉世 上帝讓我們再次復活 ｜ 正知卓見 ｜ 未解之謎 ｜
 discovery|hQwUV7X17NE|十災之首、赤道下雪、延安窯籃塌陷、黑天鵝穩落天安門   天降異象示警人間  世界為何變得如此瘋狂？｜ 正知卓見 ｜ 預言警示 ｜
